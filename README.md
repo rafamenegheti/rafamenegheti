@@ -5,15 +5,25 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Next.js and Data Structures**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **rafamenegheti52@gmail.com**
-
-- ⚡ Fun fact **I cried watching Arcane**
-
-## 🚀 Languages and Tools:
+```javascript
+let rafael = {
+  code: ["Javascript", "Typescript"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+      frontEnd: {
+          js: ["ReactJS", "React Native", "NextJS"],
+          css: ["Styled-Components", "Bootstrap", "SASS"]
+      },
+      backEnd: {
+          js: ["Node", "Express"],
+      },
+      databases: ["Fauna", "Postgres", "Oracle", "SQLite"],
+      misc: ["Firebase", "bash"],
+      devOps: "Docker🐳",
+      learning: ["NextJS", "Data Structures", "Elixir"],
+      reachMe: "rafaelmenegheti52@gmail.com"
+  }
+```
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
