@@ -8,8 +8,6 @@
 ```javascript
 let rafael = {
   code: ["Javascript", "Typescript"],
-  askMeAbout: ["web dev", "tech", "app dev"],
-  technologies: {
       frontEnd: {
           js: ["ReactJS", "React Native", "NextJS"],
           css: ["Styled-Components", "Bootstrap", "SASS"]
