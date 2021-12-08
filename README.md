@@ -10,7 +10,7 @@ let rafael = {
   code: ["Javascript", "Typescript"],
       frontEnd: {
           js: ["ReactJS", "React Native", "NextJS"],
-          css: ["Styled-Components", "Bootstrap", "SASS"]
+          css: ["Styled-Components", "Bootstrap", "Sass"]
       },
       backEnd: {
           js: ["Node", "Express"],
