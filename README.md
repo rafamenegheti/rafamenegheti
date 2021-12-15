@@ -19,7 +19,7 @@ let rafael = {
       misc: ["Firebase", "bash"],
       devOps: "Docker🐳",
       learning: ["NextJS", "Data Structures", "Elixir"],
-      reachMe: "rafaelmenegheti52@gmail.com"
+      reachMe: "rafaelmenegheti51@gmail.com"
   }
 ```
 
