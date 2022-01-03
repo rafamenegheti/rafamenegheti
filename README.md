@@ -58,6 +58,8 @@ let rafael = {
 <br/>
 <br/>
 
+* [Try the vscode theme i am doing](https://marketplace.visualstudio.com/items?itemName=RafaelMenegheti.zima-blue-theme)
+
 ## Linkedin:
 
 <p align="left">
