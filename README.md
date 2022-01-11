@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael</h1>
 <h3 align="center">I'm a professional student fascinated about solving problems, mainly using technologies that involve web and mobile.</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ My Stacks
 
 ```javascript
 let rafael = {
