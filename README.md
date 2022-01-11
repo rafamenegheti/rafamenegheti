@@ -3,6 +3,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael</h1>
 <h3 align="center">I'm a professional student fascinated about solving problems, mainly using technologies that involve web and mobile.</h3>
 
+
+
+<p align="left">
+
+<a href = "https://br.linkedin.com/in/rafael-menegheti-4532a0219" target= "_blank" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
+
+
 ## 🙋‍♂️ My Stacks
 
 ```javascript
@@ -16,9 +25,12 @@ let rafael = {
           js: ["Node", "Express"],
       },
       databases: ["Fauna", "Postgres", "Oracle", "SQLite"],
-      misc: ["Firebase", "bash"],
       devOps: "Docker🐳",
-      learning: ["NextJS", "Data Structures", "Elixir"],
+      misc: ["Firebase", "jest", "bash"],
+      learning: ["NextJS", "Python", "Data Science"],
+
+
+
       reachMe: "rafaelmenegheti51@gmail.com"
   }
 ```
@@ -63,10 +75,3 @@ let rafael = {
 * [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=RafaelMenegheti.zima-blue-theme)
 * [Theme Repository](https://github.com/rafamenegheti/zima-blue-vscode-theme)
 
-## Linkedin:
-
-<p align="left">
-
-<a href = "https://br.linkedin.com/in/rafael-menegheti-4532a0219"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</p>
