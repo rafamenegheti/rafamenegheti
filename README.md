@@ -29,9 +29,6 @@ let rafael = {
       devOps: "Docker🐳",
       misc: ["Firebase", "jest", "bash"],
       learning: ["NextJS", "Python", "Data Science"],
-
-
-
       reachMe: "rafaelmenegheti51@gmail.com"
   }
 ```
