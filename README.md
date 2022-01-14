@@ -1,5 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+ -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael</h1>
 <h3 align="center">I'm a professional student fascinated about solving problems, mainly using technologies that involve web and mobile.</h3>
 
@@ -57,7 +57,7 @@ let rafael = {
     </a>
 </p> -->
 
-## 📊 To languages stats
+<!-- ## 📊 To languages stats -->
 
   <br/>
   <a href="https://github.com/rafamenegheti/github-readme-stats"><img alt="Rafael's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamenegheti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -67,8 +67,7 @@ let rafael = {
 <br/>
 <br/>
 
-<br/>
-<br/>
+
 
 ## VScode theme i am making:
 
