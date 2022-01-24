@@ -67,8 +67,3 @@ let rafael = {
 
 
 
-## VScode theme i am making:
-
-* [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=RafaelMenegheti.zima-blue-theme)
-* [Theme Repository](https://github.com/rafamenegheti/zima-blue-vscode-theme)
-
