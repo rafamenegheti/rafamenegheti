@@ -28,7 +28,7 @@ let rafael = {
       databases: ["Fauna", "Postgres", "Oracle", "SQLite"],
       devOps: "Docker🐳",
       misc: ["Firebase", "jest", "bash"],
-      learning: ["Python", "Data Science"],
+      learning: ["c++", "dsp"],
       reachMe: "rafaelmenegheti51@gmail.com"
   }
 ```
