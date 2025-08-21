@@ -17,20 +17,20 @@
 
 ```javascript
 let rafael = {
-  code: ["Javascript", "Typescript", "Java", "c++"],
-      frontEnd: {
-          js: ["ReactJS", "React Native", "NextJS"],
-          css: ["TailWind", "Styled-Components", "Bootstrap", "Sass", "ChakraUI"]
-      },
-      backEnd: {
-          js: ["Node", "Express"],
-      },
-      databases: ["Fauna", "Postgres", "Oracle", "SQLite"],
-      devOps: "Docker🐳",
-      misc: ["Firebase", "jest", "bash"],
-      learning: ["dsp", "juce"],
-      reachMe: "rafaelmenegheti51@gmail.com"
-  }
+    code: ["Javascript", "Typescript", "Java", "c++"],
+    frontEnd: {
+        js: ["ReactJS", "React Native", "NextJS"],
+        css: ["TailWind", "Styled-Components", "Bootstrap", "Sass", "ChakraUI"]
+    },
+    backEnd: {
+        js: ["Node", "Express"],
+    },
+    databases: ["Fauna", "Postgres", "Oracle", "SQLite"],
+    devOps: "Docker🐳",
+    misc: ["Firebase", "jest", "bash"],
+    learning: ["dsp", "juce"],
+    reachMe: "rafaelmenegheti51@gmail.com"
+}
 ```
 
 <!-- <p align="center"> 
