@@ -17,7 +17,7 @@
 
 ```javascript
 let rafael = {
-  code: ["Javascript", "Typescript"],
+  code: ["Javascript", "Typescript", "Java", "c++"],
       frontEnd: {
           js: ["ReactJS", "React Native", "NextJS"],
           css: ["TailWind", "Styled-Components", "Bootstrap", "Sass", "ChakraUI"]
